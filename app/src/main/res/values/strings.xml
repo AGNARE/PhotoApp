@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoMesseg</string>
+    <string name="log_in">LOG IN</string>
+    <string name="register">REGISTER</string>
+    <string name="tv_register">Register</string>
+    <string name="photo">photo</string>
+    <string name="next">NEXT</string>
+    <string name="sign_up">Sign up</string>
+    <string name="NickNameSignUp">By signing up, you agree to Photo’s Terms of Service and Privacy Policy.</string>
+</resources>
