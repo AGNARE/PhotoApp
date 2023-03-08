@@ -8,4 +8,6 @@
     <string name="sign_up">Sign up</string>
     <string name="NickNameSignUp">By signing up, you agree to Photo’s Terms of Service and Privacy Policy.</string>
     <string name="the_jane">the_Jane</string>
+    <string name="log_intext">Log in</string>
+    <string name="jane_example_com">jane@example.com</string>
 </resources>

@@ -41,6 +41,7 @@
         android:layout_height="wrap_content"/>
     
     <EditText
+        android:inputType="textEmailAddress"
         android:background="@drawable/et_button"
         android:paddingStart="17dp"
         android:id="@+id/et_exemple.com"
@@ -68,6 +69,7 @@
         android:paddingStart="17dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/et_exemple.com" />
+        app:layout_constraintTop_toBottomOf="@id/et_exemple.com"
+        tools:ignore="RtlSymmetry" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -4,19 +4,15 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
-
 import com.google.android.material.button.MaterialButton;
 
 public class Login extends AppCompatActivity {
-    private MaterialButton btnLogin;
     private MaterialButton btnBack;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        btnLogin = findViewById(R.id.back_button_login);
         btnBack = findViewById(R.id.back_button_login);
     }
 
